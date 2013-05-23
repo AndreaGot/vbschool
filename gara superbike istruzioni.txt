@@ -1,0 +1,9 @@
+La ditta Software Amico srl è incaricata di realizzare un programma per la gestione di una Gara di Superbike
+
+Si vogliono conoscere le die classifiche parziali e la classifica finale
+
+Dati in input:
+
+-   Nome del Pilota
+-   Tempo Gara 1
+-   Tempo Gara 2
